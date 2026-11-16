@@ -1,130 +1,178 @@
 
-<!--
-  PREMIUM CYBERPUNK GITHUB PROFILE
-  Username: smartelam12-hub
--->
+<!-- ==========================================
+     SMARTELAM12-HUB
+     CYBERPUNK GITHUB PROFILE
+     STUDENT & PROGRAMMER
+     ========================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:8A2BE2,100:FF1493&height=220&section=header&text=SMARTELAM12-HUB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090511,40:6A00F5,100:FF29D9&height=220&section=header&text=SMARTELAM12-HUB&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=STUDENT%20%7C%20PROGRAMMER%20%7C%20TECH%20ENTHUSIAST&descSize=13&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=23&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+DIGITAL+WORLD;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;DESIGN.+DEVELOP.+DEPLOY." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=FF29D9&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+DIGITAL+UNIVERSE;STUDENT+%26+PROGRAMMER;PASSIONATE+ABOUT+TECHNOLOGY;LEARNING.+CODING.+INNOVATING.;FUTURE+DEVELOPER+IN+PROGRESS."/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/smartelam12-hub?style=for-the-badge&logo=github&color=9D00FF&labelColor=12002F)](https://github.com/smartelam12-hub)
-[![GitHub Stars](https://img.shields.io/github/stars/smartelam12-hub?style=for-the-badge&logo=github&color=FF1493&labelColor=12002F)](https://github.com/smartelam12-hub)
+<img src="https://img.shields.io/badge/STATUS-LEARNING-9B5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-STUDENT%20%26%20PROGRAMMER-FF29D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-CREATIVITY-090511?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/smartelam12-hub">
+<img src="https://img.shields.io/github/followers/smartelam12-hub?style=for-the-badge&logo=github&label=FOLLOWERS&color=9B5CFF"/>
+</a>
+
+<a href="https://github.com/smartelam12-hub?tab=repositories">
+<img src="https://img.shields.io/github/stars/smartelam12-hub?style=for-the-badge&logo=github&label=STARS&color=FF29D9"/>
+</a>
 
 </div>
 
 ---
 
-## 👾 WHO AM I?
+<div align="center">
 
-```js
-const developer = {
-  username: "smartelam12-hub",
-  role: "Full Stack Developer",
-  mindset: "Creative Thinker",
-  passion: ["Web Development", "Programming", "Technology"],
-  currentlyLearning: "Advanced Full Stack Development",
-  mission: "Turning ideas into digital experiences",
-  status: "Always Coding 💻"
+## 👾 01 / ABOUT ME
+
+### THINK. LEARN. CREATE. REPEAT.
+
+*Exploring the world of programming, one line of code at a time.*
+
+</div>
+
+```javascript
+const smartelam = {
+    username: "smartelam12-hub",
+    role: "Student & Programmer",
+
+    interests: [
+        "Programming",
+        "Web Development",
+        "UI/UX Design",
+        "Technology",
+        "Creative Projects"
+    ],
+
+    mindset: "Never Stop Learning",
+    goal: "Become a Skilled Developer",
+
+    motto: "Dream Big. Code Bigger."
 };
 ```
 
-- 🔭 Building modern and responsive web applications.
-- 🌱 Exploring frontend and backend technologies.
-- 💡 Passionate about creative UI/UX and problem-solving.
-- 🚀 Always learning, building, and improving.
-- 🎯 My goal: Build impactful digital experiences.
+- 🎓 Student passionate about technology.
+- 💻 Exploring programming and software development.
+- 🚀 Building projects and improving my skills.
+- 🎨 Interested in creative UI/UX design.
+- 🌱 Learning something new every day.
+- ⚡ Believe in creativity, consistency and innovation.
 
 ---
 
-## ⚡ TECH ARSENAL
-
 <div align="center">
 
-### FRONTEND DEVELOPMENT
+## ⚡ 02 / TECH ARSENAL
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+### TECHNOLOGIES & TOOLS
 
-### BACKEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
-
-### DATABASE & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smartelam12-hub&show_icons=true&theme=synthwave&hide_border=true&bg_color=12002F&title_color=FF00FF&icon_color=FF1493&text_color=FFFFFF" />
+## 📊 03 / GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartelam12-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=12002F&title_color=FF00FF&text_color=FFFFFF" />
+### MY CODING PERFORMANCE
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smartelam12-hub&bg_color=090511&color=FF29D9&line=9B5CFF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20ACTIVITY"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=smartelam12-hub&theme=synthwave&hide_border=true&background=12002F&ring=FF00FF&fire=FF1493&currStreakLabel=FF00FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smartelam12-hub&show_icons=true&theme=tokyonight&bg_color=090511&title_color=FF29D9&icon_color=9B5CFF&text_color=FFFFFF&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartelam12-hub&layout=compact&theme=tokyonight&bg_color=090511&title_color=FF29D9&text_color=FFFFFF&hide_border=true"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=smartelam12-hub&theme=tokyonight&hide_border=true&background=090511&ring=FF29D9&fire=9B5CFF&currStreakLabel=FF29D9"/>
 
 </div>
 
 ---
 
-## 🔥 CONTRIBUTION MATRIX
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smartelam12-hub&bg_color=12002F&color=FF00FF&line=FF1493&point=FFFFFF&area=true&hide_border=true" width="100%" />
+## 🏆 04 / TROPHY ROOM
+
+<img src="https://github-profile-trophy.vercel.app/?username=smartelam12-hub&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<div align="center">
+
+## 🚀 05 / MY PROJECTS
+
+### BUILDING MY DIGITAL WORLD
+
+</div>
+
+<!-- Replace the repository names below with your actual projects -->
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 WEB DEVELOPMENT
+
+Modern websites and creative web experiences.
+
+[Explore repositories →](https://github.com/smartelam12-hub?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 💻 PROGRAMMING
+
+Learning through coding experiments and projects.
+
+[Explore repositories →](https://github.com/smartelam12-hub?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
+
+## 🌐 06 / CONNECT WITH ME
 
 <a href="https://github.com/smartelam12-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=smartelam12-hub&repo=YOUR_PROJECT_1&theme=synthwave&hide_border=true" />
+<img src="https://img.shields.io/badge/GITHUB-090511?style=for-the-badge&logo=github&logoColor=FF29D9"/>
 </a>
 
-<a href="https://github.com/smartelam12-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=smartelam12-hub&repo=YOUR_PROJECT_2&theme=synthwave&hide_border=true" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-090511?style=for-the-badge&logo=gmail&logoColor=FF29D9"/>
 </a>
 
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/smartelam12-hub">
-<img src="https://img.shields.io/badge/GitHub-12002F?style=for-the-badge&logo=github&logoColor=FF00FF"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-090511?style=for-the-badge&logo=linkedin&logoColor=9B5CFF"/>
 </a>
 
-<!-- Add your LinkedIn and other social links here -->
+<br/><br/>
 
-</div>
+### 💜 THANKS FOR VISITING MY PROFILE
 
----
+**"Code your dreams. Create your future."**
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=smartelam12-hub&style=for-the-badge&color=9B5CFF&label=PROFILE+VISITORS"/>
 
-### 💜 CODE IS MY SUPERPOWER
-
-**"Dream in pixels. Think in logic. Build the future."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:12002F&height=120&section=footer" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=smartelam12-hub&style=for-the-badge&color=9D00FF&label=PROFILE+VISITORS" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF29D9,50:6A00F5,100:090511&height=120&section=footer&animation=twinkling"/>
 
 </div>
